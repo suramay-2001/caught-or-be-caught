@@ -1,0 +1,32 @@
+#sketch-game{
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+  position: fixed;
+
+ background: rgba(0, 0, 0, 0.5);
+ color: #f1f1f1;
+ padding: 20px;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+#Quote{
+  position: fixed;
+    margin-left: 300 px;
+ bottom: 0;
+ background: rgba(0, 0, 0, 0.5);
+ color: #f1f1f1;
+ padding: 20px;
+}
+#h1{
+  position: fixed;
+ top: 0;
+ background: rgba(0, 0, 0, 0.5);
+ color: #ffffff;
+ padding: 20px;
+}
